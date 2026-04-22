@@ -1,0 +1,21 @@
+{
+  "name": "Malabar Kottiyur Store",
+  "short_name": "Malabar",
+  "description": "Store Management System",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7fc",
+  "theme_color": "#0b57d0",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
